@@ -1,5 +1,4 @@
-## I’ve moved!
-## My new GitHub profile is [lekanOyeleye](https://github.com/lekanOyeleye)🚀
+# My name is olalekan Oyeleye and my GitHub profile has been moved to [lekanOyeleye](https://github.com/lekanOyeleye)🚀. Kindly click the link. Thank you!
 
 <!--
 **Consolelives/Consolelives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
